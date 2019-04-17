@@ -1,4 +1,5 @@
 Fast Distributed Bus (FDBus)
+Introduction: https://blog.csdn.net/jeremy_cz/article/details/89060291?from=timeline
 ============================
 
 FDBus is a middleware development framework targeting the following objectives:
